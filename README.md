@@ -1,1 +1,1 @@
-Testing Git Team integration
+Testing Git Team integrations
