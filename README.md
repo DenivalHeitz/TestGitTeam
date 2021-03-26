@@ -1,1 +1,1 @@
-This is a test 6
+Testing Git Team integrations
